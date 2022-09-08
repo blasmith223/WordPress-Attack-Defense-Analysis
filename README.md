@@ -24,4 +24,4 @@ Attack, Analysis, and Hardening of a Vulnerable WordPress Server
 * List uncovered critical common vulnerabilities
 * Implement Alerts
 * Hardening
-* Automatiion
+* Automation
